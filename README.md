@@ -10,7 +10,7 @@ SVL with Rviz:
 * Specifically, troubleshooting included fixing faulty localization which prevented Autoware.AI with Rviz to run with Mission Planning launch. Using GNSS for localization and commenting ndt_matching in my_localization.launch file did not fix issues, however. Most faults at this time were due to CPU issues. 
 * CPU Issues shown blow (Kevin kept in contact with GMU ORC to continuously add CPU Cores until we had 10 more added, but CPU issues persisted despite some performance increase)
 
-![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/unnamed.png)
+![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/rviz%20cpu.png)
 * Additional troubleshooting included marking "detection" in runtime manager, as this was not stated in instructions, but performed in an instructional video: https://www.youtube.com/watch?v=cASgrZpFlEU
 
 SVL with Apollo 5.0:
