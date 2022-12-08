@@ -16,5 +16,5 @@ SVL with Apollo 5.0:
 * Explored additional resources to get autonomous driving working: https://www.youtube.com/watch?v=781zkzN2xMg (Does not utilize perception stack), https://www.youtube.com/watch?v=cwJi1xrpj7E (Method did not work with SVL Simulator)
 
 
-* Was active in group discord/discussions as shown below ![alt text]([http://url/to/img.png](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/active%20member.JPG))
+* Was active in group discord/discussions as shown below ![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/active%20member.JPG)
 * Additionally, I wrote the threat model portion of the Autoware project writeup
