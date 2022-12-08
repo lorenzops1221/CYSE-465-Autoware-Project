@@ -13,6 +13,7 @@ SVL with Rviz:
 ![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/rviz%20cpu.png)
 * Additional troubleshooting included marking "detection" in runtime manager, as this was not stated in instructions, but performed in an instructional video: https://www.youtube.com/watch?v=cASgrZpFlEU
 
+* LGSVL could not load map and I researched our given error. Found no similar error other than the following unresolved ticket: https://github.com/lgsvl/simulator/issues/2012 - This issue was resolved by Jack after rebooting
 SVL with Apollo 5.0:
 * Group eventually switched from Rviz to Apollo 5.0 after continuous issues with Rviz. Learned to run Apollo with SVL Simulator using docker/scripts/dev_into.sh, bootsraph.sh, bridge.sh: https://www.svlsimulator.com/docs/system-under-test/apollo5-0-instructions/
 
