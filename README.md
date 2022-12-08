@@ -6,6 +6,7 @@ Autoware with Rviz:
 * Ran Autoware.AI 1.14.0 with SVL Simulator and Rviz (as this contributed to orignal plan to test attack on autopilot features). Commands are documented in the following link: https://www.svlsimulator.com/docs/system-under-test/autoware-instructions/
 
 SVL with Rviz:
+* Launch Autware.ai in conjunction with SVL Simulator: ./run.sh -t 1.1.4.0 and roslaunch runtime_manager runtime_manager.launch , then load each respective .launch file in Runtime Manager as stated in tutorial. For our simulation, Jack created a map on Cubetown with our adversarial object, and Kevin converted this map to cooperate with Runtime Manager as a .launch file, so This would be the only difference in loaded files. 
 * I actively joined group meetings even if only viewing the VM session and offering suggestions on troubleshooting for controller: 
 * Specifically, troubleshooting included fixing faulty localization which prevented Autoware.AI with Rviz to run with Mission Planning launch. Using GNSS for localization and commenting ndt_matching in my_localization.launch file did not fix issues, however. Most faults at this time were due to CPU issues. 
 * CPU Issues shown below (Kevin kept in contact with GMU ORC to continuously add CPU Cores until we had 10 more added, but CPU issues persisted despite some performance increase)
