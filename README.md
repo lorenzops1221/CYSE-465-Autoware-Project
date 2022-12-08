@@ -17,5 +17,6 @@ SVL with Apollo 5.0:
 
 
 * Was active in group discord/discussions as shown below
-*  ![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/active%20member.JPG)
-* Additionally, I wrote the threat model portion of the Autoware project writeup
+ ![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/active%20member.JPG)
+* For the threat model portion of the Autoware project writeup, I wrote the threat model portion
+* For the video demonstration, I presented the thrat model portion
