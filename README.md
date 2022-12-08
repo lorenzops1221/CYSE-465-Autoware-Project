@@ -8,13 +8,17 @@ Autoware with Rviz:
 SVL with Rviz:
 * I actively joined group meetings even if only viewing the VM session and offering suggestions on troubleshooting for controller: 
 * Specifically, troubleshooting included fixing faulty localization which prevented Autoware.AI with Rviz to run with Mission Planning launch. Using GNSS for localization and commenting ndt_matching in my_localization.launch file did not fix issues, however. Most faults at this time were due to CPU issues. 
+* CPU Issues shown blow (Kevin kept in contact with GMU ORC to continuously add CPU Cores until we had 10 more added, but CPU issues persisted despite some performance increase)
+
+![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/unnamed.png)
 * Additional troubleshooting included marking "detection" in runtime manager, as this was not stated in instructions, but performed in an instructional video: https://www.youtube.com/watch?v=cASgrZpFlEU
 
 SVL with Apollo 5.0:
 * Group eventually switched from Rviz to Apollo 5.0 after continuous issues with Rviz. Learned to run Apollo with SVL Simulator using docker/scripts/dev_into.sh, bootsraph.sh, bridge.sh: https://www.svlsimulator.com/docs/system-under-test/apollo5-0-instructions/
 
 * Explored additional resources to get autonomous driving working: https://www.youtube.com/watch?v=781zkzN2xMg (Does not utilize perception stack), https://www.youtube.com/watch?v=cwJi1xrpj7E (Method did not work with SVL Simulator)
-
+* Simulation set up by Jack and run by Kevin showing LiDAR not picking up cone
+![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/unnamed.png)
 
 * Was active in group discord/discussions as shown below:
 
