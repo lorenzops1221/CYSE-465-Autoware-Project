@@ -26,6 +26,6 @@ SVL with Apollo 5.0:
 
 ![image](https://github.com/lorenzops1221/CYSE-465-Autoware-Project/blob/main/Images/active%20member.JPG)
 Additional Contributions:
-* For the threat model portion of the Autoware project writeup, I wrote the threat model portion
-* For the video demonstration, I presented the thrat model portion
+* For the Autoware project writeup, I wrote the threat model portion
+* For the video demonstration, I presented the threat model portion
 * Threat Model details were gathered from information in the following source: https://arxiv.org/pdf/2005.03778.pdf
